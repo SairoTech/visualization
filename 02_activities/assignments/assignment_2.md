@@ -9,19 +9,47 @@
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
-      ```
-      Your answer...
-
-
-
-
-
-
-
-      ```
+        ```
     - How could this data visualization have been improved?  
       ```
       Your answer...
+      ```
+   **Good Visualization** :
+
+    Climate Change: Global Land Surface Temperature Anomalies :  https://public.tableau.com/app/profile/arpita.pal/viz/ClimateChangeGlobalLandSurfaceTemperatureAnomalies/Globallandtemp 
+
+    The visualization "Climate Change: Global Land Surface Temperature Anomalies" effectively communicates important information about global temperature changes over time.
+
+   Reasons :
+        1. The context of the data is clear, with well-labelled axes, including units, and a title that provides detailed information.
+        2. The chart effectively displays temperature changes over time through an interactive line graph. When hovering over specific data points, it shows the exact temperatures for each year.
+        3. The red and orange color gradient visually represents the increase in temperature, effectively conveying the intensity of the temperature rise over time. 
+    To improve :
+        1. Could have used a better color scheme to indicate spikes because it is hard to differentiate the light and dark blue color in a quick glance. Same with orange and red.
+
+    **Bad Visualization** :
+    
+    College Football Fan Map : 
+
+    America's Favorite College Football Teams, Determine by nukmber of Twitter followers :  https://public.tableau.com/app/profile/matt.sorenson/viz/CollegeFootballFollowerMap/CollegeFootballMap
+
+    The College Football Fan Map, featured on Tableau, aims to represent the popularity of college football teams based on the number of Twitter followers. However, despite its intention to convey interesting data, the visualization presents multiple issues that undermine its clarity and effectiveness.
+
+    Reasons :
+        1. Overcrowded Design : The map is complex as it is overcrowded with execssive details. Large amount of data is overwhelming making it difficult to focus. The inclusion of team logos alongside the map's geographical markers makes it visually crowded and distracts from the overall message.
+        2. Confusing Color Choices :The map's colors are not clearly distinguishable and creates confusion about what each color indicates.
+        3. Lack of Proper Labeling, context and descriptive title: The absence of a descriptive title and labels that properly convey what the map represents is a significant issue. The current title is vague and does not clearly communicate the purpose of the map.
+        4. There are no clear labels for the axes or the data points on the map.
+
+    Suggestions for improvement :
+        1. Simplify the map by reducing the number of unnecessary data points displayed or grouping teams regionally, the visualization would become more manageable and easier to digest.
+        2. Use clearer, more distinct colors and provide a legend to explain their meaning.This would help differentiate teams and make the map easier to read. Adding a legend would help viewers quickly understand what the colors represent.
+        3. Add a descriptive title and contextual information to ensure the audience understands the key message. A more detailed and informative title would explain the map’s purpose, and labeling key areas like the teams’ Twitter follower counts would provide clarity
+
+
+
+
+  
 
 
 
